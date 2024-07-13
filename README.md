@@ -1,2 +1,4 @@
 # philo
-threading a process, discover mutexes.
+Philosophers with threads and mutexes.
+# philo_bonus
+Philosophers with processes and semaphores.
